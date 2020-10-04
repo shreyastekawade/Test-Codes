@@ -1,0 +1,23 @@
+[
+{
+	"name" : "ABC",
+	"type" : "Developer",
+	"email" : "abc@domain.com"
+},
+
+{
+	"name" : "XYZ",
+	"type" : "Tester",
+	"email" : "abc@domain.com"
+},
+
+
+
+{
+	"name" : "PM",
+	"type" : "Manager",
+	"email" : "abc@domain.com"
+}
+
+
+]
